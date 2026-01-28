@@ -5,7 +5,7 @@
   > Kim NaYeong <sup>Annie</sup>   
   >    
   > 🏫  **University**  
-  > SEOUL WOMEN'S UNIVERSITY <sup>Dept. of Software Convergence</sup>
+  > SEOUL WOMEN'S UNIVERSITY <sup>Dept. of Software Convergence</sup>  
   > 🌎🏫  **Exchange Student**  
   > Kennesaw State University <sup>Dept. of Computer Science</sup>
   >      
