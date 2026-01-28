@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!%20I'm%20nanna29&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!%20I'm%20nayeong29&fontSize=70&fontColor=ffffff)
 
 # 🔎 Basic Info 🔎
   > :heartpulse: **Name**  
