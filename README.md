@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Xaml-0C54C2?style=flat&logo=xaml&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
 </div>
 <br>
 
