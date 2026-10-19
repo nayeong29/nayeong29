@@ -21,15 +21,16 @@
 > 📕 **Language**
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776ABstyle=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Css-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776ABstyle=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Xaml-0C54C2?style=flat&logo=xaml&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
+  
 </div>
 <br>
 
